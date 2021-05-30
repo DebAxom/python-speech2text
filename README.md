@@ -15,4 +15,4 @@ pip install -r requirnments.txt
 ```
 python main.py {audio-file}
 ```
-## Note: Use python3 and pip3 instead python and pip if you are on a MAC.
+#### Note: Use python3 and pip3 instead python and pip if you are on a MAC.
